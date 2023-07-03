@@ -1,9 +1,31 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# Modern YouTube Clone Application in React JS with Material UI 5 & RapidAPI
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+This project is a YouTube clone application developed using React JS, Material UI 5, and RapidAPI. It aims to replicate the core functionalities of the YouTube platform, providing users with a modern and intuitive interface for browsing, searching, and playing YouTube videos.
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+## Features
+
+- User authentication and authorization
+- Seamless integration with YouTube API using RapidAPI
+- Interactive and responsive UI design with Material UI 5 components
+- Video search functionality with dynamic suggestions
+- Video player with playback controls, fullscreen mode, and related videos suggestions
+- User-friendly interface for viewing video details, comments, and likes
+- Playlist creation and management
+- User activity tracking and history management
+
+## Technologies Used
+
+- React JS
+- Material UI 5
+- RapidAPI
+- YouTube API
+- HTML5
+- CSS3
+
+## Prerequisites
+
+- Node.js and npm installed on your machine
+
+Feel free to customize it further according to your needs.
