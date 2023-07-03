@@ -3,11 +3,12 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #1f3879;
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color: #1f3879;
 }
 
 ::-webkit-scrollbar {
@@ -16,7 +17,7 @@ a {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgb(114, 113, 113);
+  background-color: #1f3879;
   border-radius: 10px;
   height: 200px;
 }
